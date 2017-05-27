@@ -1,0 +1,9 @@
+[submodule "hopener-web"]
+	path = hopener-web
+	url = https://github.com/thirteendollars/hopener-web.git
+[submodule "hopener-android"]
+	path = hopener-android
+	url = https://github.com/thirteendollars/hopener-android.git
+[submodule "hopener-ios"]
+	path = hopener-ios
+	url = https://github.com/thirteendollars/hopener-ios.git
